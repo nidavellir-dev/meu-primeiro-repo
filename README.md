@@ -1,2 +1,3 @@
 # meu-primeiro-repo
-o meu primeiro repositório para aprender Git
+Olá! Este é o meu primeiro repositório no gitHub.
+Estou a aprender Git e GitHub do zero.
